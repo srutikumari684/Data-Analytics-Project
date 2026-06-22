@@ -1,0 +1,13 @@
+# Project Prerequisites & Requirements
+
+## Software Requirements
+- Microsoft Excel (2019, 2021, or Microsoft 365) is highly recommended. 
+- The project utilizes interactive Slicers, Pivot Charts, and specific KPI formulas that require a modern desktop version of Microsoft Excel to function correctly.
+- Web-based versions (like Google Sheets or Excel for Web) may have limited support for advanced interactive dashboard elements and dynamic pivot layouts.
+
+## Data Processing & Feature Dependency
+The workbook relies on the following native Microsoft Excel capabilities:
+- Pivot Tables & Pivot Charts (for multi-state data aggregation and visualization)
+- Interactive Slicers (for dynamic dashboard filtering)
+- Advanced Excel Formulas (for KPI generation and summary metrics)
+- Data Cleaning Tools (Remove Duplicates, Text-to-Columns, and Data Type formatting)
